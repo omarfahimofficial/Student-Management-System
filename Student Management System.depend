@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1618778772 source:e:\ndub\4th semester\cse 2101 lab\student managment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+
+1619313960 source:e:\ndub\4th semester\cse 2101 lab\guchano\student managment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+
+1619308017 source:e:\ndub\4th semester\cse 2101 lab\guchano\student managment system\resources.rc
+
